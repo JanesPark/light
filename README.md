@@ -1,2 +1,2 @@
 # light
-practice
+practice : making blog by myself
